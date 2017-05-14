@@ -39,7 +39,7 @@
             android:ellipsize="end"
             android:maxLines="3"
             android:padding="16dp"
-            android:text="fsgds agnj fdgkmnw sfgl iqwrqwr wfwd pwd qfqwd wqdfqwdf asffasdf dsafsfad fasdfd  asdfsad sadfsd sdafds sdfs sdafsd dsafsf sdfasfs"
+            android:text="Song Hye Kyo"
             android:textAppearance="@style/TextAppearance.AppCompat.Small" />
 
         <TextView
@@ -53,7 +53,7 @@
             android:paddingLeft="16dp"
             android:paddingStart="16dp"
             android:paddingTop="8dp"
-            android:text="2016-04-03"
+            android:text="2010-10-01"
             android:textColor="@color/colorPrimary" />
 
 
@@ -66,7 +66,7 @@
             android:layout_below="@+id/textViewOverview"
             android:layout_marginRight="16dp"
             android:tint="#757575"
-            app:srcCompat="@drawable/ic_watchlist" />
+            app:srcCompat="@drawable/ic_move_to_inbox_black_24dp" />
 
 
     </RelativeLayout>
