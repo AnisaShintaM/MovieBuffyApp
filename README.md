@@ -37,14 +37,10 @@ The MovieDB yang pastinya menyediakan data yang akurat dan terpercaya.</p>
 <h1>Link Aplikasi</h1>
 https://drive.google.com/open?id=0B09XALl5QufvUE5uVDlTZ2YtVWM
 <h1>Screenshots Aplikasi</h1>
-![Screenshot_2017-05-14-22-32-22[1].png](https://s16.postimg.org/q22xx7z9x/Screenshot_2017-05-14-22-32-22_1.png)
-<br>
-![Screenshot_2017-05-14-22-32-30[1].png](https://s11.postimg.org/m9f7c1mar/Screenshot_2017-05-14-22-32-30_1.png)
-<br>
-![Screenshot_2017-05-14-22-32-38[1].png](https://s3.postimg.org/x03xt8voj/Screenshot_2017-05-14-22-32-38_1.png)
-<br>
-![Screenshot_2017-05-14-22-33-08[1].png](https://s18.postimg.org/ub4gk30rt/Screenshot_2017-05-14-22-33-08_1.png)
-<br>
-![Screenshot_2017-05-14-22-33-17[1].png](https://s4.postimg.org/xd8uuzbu5/Screenshot_2017-05-14-22-33-17_1.png)
-<br>
-![Screenshot_2017-05-14-22-33-35[1].png](https://s24.postimg.org/hp6zv0hlx/Screenshot_2017-05-14-22-33-35_1.png)
+<img src="https://s16.postimg.org/q22xx7z9x/Screenshot_2017-05-14-22-32-22_1.png" width="350" height="600"/>
+<img src="https://s11.postimg.org/m9f7c1mar/Screenshot_2017-05-14-22-32-30_1.png" width="350" height="600"/>
+<img src="https://s3.postimg.org/x03xt8voj/Screenshot_2017-05-14-22-32-38_1.png" width="350" height="600"/>
+<img src="https://s18.postimg.org/ub4gk30rt/Screenshot_2017-05-14-22-33-08_1.png" width="350" height="600"/>
+<img src="https://s4.postimg.org/xd8uuzbu5/Screenshot_2017-05-14-22-33-17_1.png" width="350" height="600"/>
+<img src="https://s24.postimg.org/hp6zv0hlx/Screenshot_2017-05-14-22-33-35_1.png" width="350" height="600"/>
+
